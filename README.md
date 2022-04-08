@@ -1,5 +1,11 @@
 # Max-and-Min-values-using-array
-  public class Demo{
+ 
+ 
+ 
+ 
+ 
+ 
+ public class Demo{
 	public static void main(String[] args) {
 	    int a[] ={1,2,7,45,9,8,0,10,98};
 	    int max=a[0];
